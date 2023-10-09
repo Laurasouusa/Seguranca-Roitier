@@ -37,4 +37,4 @@ sudo apt-get install libpam-pwquality
 sudo apt-get install fail2ban
 
 #Limita o Acesso ao Sudo:
-sudo usermod -aG sudo seu-usuario
+sudo usermod -aG sudo vagrant
